@@ -1,0 +1,11 @@
+Flask
+Flask-Login
+pandas
+google-auth
+google-auth-oauthlib
+google-api-python-client
+openai
+langchain
+langgraph
+python-dotenv
+schedule
