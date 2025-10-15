@@ -22,7 +22,11 @@ cd AInventory
 pip install -r requirements.txt
 Your requirements.txt file should contain the following:
 
+pandas
+google-auth
+google-auth-oauthlib
+google-api-python-client
+openai
 langchain
-pyttsx3
-speech_recognition
+langgraph
 python-dotenv
