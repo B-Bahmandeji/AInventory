@@ -19,9 +19,9 @@ git clone https://github.com/B-Bahmandeji/AInventory
 cd AInventory
 
 # Install Dependencies
-```
-pip install -r requirements.txt
-```      
+<pre> ```python pip install -r requirements.txt``` </pre>
+
+    
 Your requirements.txt file should contain the following:
 
 pandas  
