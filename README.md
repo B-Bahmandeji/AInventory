@@ -1,4 +1,4 @@
-Langchain Agnetic AI Service
+#Langchain Agnetic AI Service
 This service can read data records from your Google Spreadsheet sales and send them to OpenAI to analyzed and figure out how much it will take for each item in inventory to be restock!
 It can then sends an email to you and notify you about each item!
 It is not a final product, just a start point to learn how you can use Landchain and the orchestrate states by Langgraph.
