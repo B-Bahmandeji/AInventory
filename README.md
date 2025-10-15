@@ -19,7 +19,11 @@ git clone https://github.com/B-Bahmandeji/AInventory
 cd AInventory
 
 # Install Dependencies
-<pre> ```python pip install -r requirements.txt ``` </pre>
+<pre>
+    ```python 
+    pip install -r requirements.txt 
+    ``` 
+</pre>
 
     
 Your requirements.txt file should contain the following:
