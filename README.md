@@ -11,14 +11,14 @@ An OpenAI API key
 A Google Service Client json file
 A Gmail password for sending email, is different from your personal password!
 
-Installation
+# Installation
 Before you begin, ensure you have Python installed on your system. Then clone this repository and navigate into the project directory.
 
-Clone the Repository
+# Clone the Repository
 git clone https://github.com/B-Bahmandeji/AInventory
 cd AInventory
 
-Install Dependencies
+# Install Dependencies
 pip install -r requirements.txt
 Your requirements.txt file should contain the following:
 
